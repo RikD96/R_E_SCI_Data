@@ -1,0 +1,9 @@
+tree_id	species	dbh_cm	height_m	plot	date
+1	Bertholletia excelsa	45.0	28.5	A1	2024-07-12
+2	Hevea brasiliensis	30.2	22.1	A1	2024-07-12
+3	Swietenia macrophylla	55.3	31.4	A2	2024-07-13
+4	Cedrela odorata	25.7	18.9	A2	2024-07-13
+5	Euterpe precatoria	18.4	16.2	B1	2024-07-14
+6	Bertholletia excelsa	62.0	34.0	B1	2024-07-14
+7	Hevea brasiliensis	27.0	19.7	B2	2024-07-15
+8	Swietenia macrophylla	48.6	29.8	B2	2024-07-15
